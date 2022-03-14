@@ -2,7 +2,7 @@
 
 [![Follow me](https://img.shields.io/github/followers/blueedgetechno?label=follow%20me&style=social)](https://github.com/blueedgetechno)
 [![Follow Twitter](https://img.shields.io/twitter/follow/blueedgetechno?label=Follow%20me&style=social)](https://twitter.com/blueedgetechno)
-[![Join](https://img.shields.io/discord/868499076432408627.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/mT3MTpeZ)
+[![Join](https://img.shields.io/discord/868499076432408627.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/9jtcVZ3tWm)
 [![Build](https://github.com/blueedgetechno/win11React/actions/workflows/deploy.yml/badge.svg?branch=master)](https://github.com/blueedgetechno/win11React/actions/workflows/deploy.yml)
 ![Uptime](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/win11react/status/master/api/win11-react/uptime.json)
 
@@ -105,21 +105,6 @@ You can find a compiled `.exe` in the **Releases** section or via clicking [HERE
 If you have one of the latest windows builds then you can enter the command below in **CMD**
 
 ``` winget install blueedge.win11react ```
-
------------------------------------------
-
-**APT/DEBIAN/UBUNTU**
-
-AMD64 ONLY
-
-``` curl -s --compressed "https://projects.asylum-os.com/apt/KEY.gpg" | sudo apt-key add - ```
-
-``` sudo curl -s --compressed -o /etc/apt/sources.list.d/asylum.list "https://projects.asylum-os.com/apt/apt.list" ```
-
-``` sudo apt update ```
-
-``` sudo apt install win11in-react ```
-
 
 
 ## Online Deployment
